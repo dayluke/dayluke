@@ -12,17 +12,17 @@
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/-Material_Design-757575?style=flat-square&logo=Material-Design&logoColor=white"/>-->
   <!--<img src="https://img.shields.io/badge/-Google_Play-414141?style=flat-square&logo=Google-Play&logoColor=white"/>-->
-  <img src="https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=Unreal-Engine&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=Unreal-Engine&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
 
 <p align="center">🌱 I’m currently studying BSc Computing for Games at Falmouth University 🌱</p>
-<p align="center">🔭 I’m currently working on '<a href="https://github.com/dayluke/SOCIALS">Socials</a>' - a connection-based social media app 🔭</p>
+<p align="center">🔭 I’m currently working on my dissertation based on Neuroevolution and Machine Learning in Games 🔭</p>
 <p align="center">👨‍💻 All of my projects are available on my <a href="https://dayluke.github.io">portfolio</a> 👨‍💻</p>
 <p align="center">📫 <strong>dayluke01@gmail.com</strong> 📫</p>
 
