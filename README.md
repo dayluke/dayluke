@@ -1,4 +1,4 @@
-<img width=100% src="https://i.gyazo.com/eedcffcddd48fbb5c8f25be0360f92e7.png"/>
+<img width=100% src="https://i.gyazo.com/864b0fb7547917bc5d9137a7d0985973.png"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
 
-<p align="center">🌱 I’m currently studying BSc Computing for Games at Falmouth University 🌱</p>
-<p align="center">🔭 I’m currently working on my dissertation based on Neuroevolution and Machine Learning in Games 🔭</p>
+<p align="center">🌱 I’m currently a Gameplay Programmer for Ubisoft London  🌱</p>
+<p align="center">🔭 I’m attained 1st Class Honours for BSc (Hons) Computing for Games at Falmouth University 🔭</p>
 <p align="center">👨‍💻 All of my projects are available on my <a href="https://dayluke.github.io">portfolio</a> 👨‍💻</p>
 <p align="center">📫 <strong>dayluke01@gmail.com</strong> 📫</p>
 
