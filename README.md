@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
 
-<p align="center">🌱 I’m currently a Gameplay Programmer for Ubisoft London  🌱</p>
-<p align="center">🔭 I’m attained 1st Class Honours for BSc (Hons) Computing for Games at Falmouth University 🔭</p>
+<p align="center">🌱 I’m currently an Engineer for Hutch Games  🌱</p>
+<p align="center">🔭 I attained 1st Class Honours for BSc (Hons) Computing for Games at Falmouth University 🔭</p>
 <p align="center">👨‍💻 All of my projects are available on my <a href="https://dayluke.github.io">portfolio</a> 👨‍💻</p>
 <p align="center">📫 <strong>dayluke01@gmail.com</strong> 📫</p>
 
