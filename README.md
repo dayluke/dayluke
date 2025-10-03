@@ -24,6 +24,7 @@
 <p align="center">🌱 I’m currently an Engineer for Hutch Games  🌱</p>
 <p align="center">🔭 I attained 1st Class Honours for BSc (Hons) Computing for Games at Falmouth University 🔭</p>
 <p align="center">👨‍💻 All of my projects are available on my <a href="https://dayluke.github.io">portfolio</a> 👨‍💻</p>
+<p align="center"><a href="https://ko-fi.com/J3J51M8FBI" target="_blank"><img alt="Ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"></a></p>
 <p align="center">📫 <strong>dayluke01@gmail.com</strong> 📫</p>
 
 
@@ -37,4 +38,3 @@
   <a href="https://twitter.com/dayluke01" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/dayluke01" target="_blank"><img alt="Itch.io" src="https://img.shields.io/badge/-itch-FA5C5C?&style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 </p>
-
